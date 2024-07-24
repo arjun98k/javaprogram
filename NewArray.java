@@ -17,6 +17,7 @@ public class NewArray {
                 }
                 System.out.println("");
                 System.out.println(" ");
+                System.out.println("arjun love sanu");
                 
             }
         }

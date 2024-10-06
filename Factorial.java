@@ -10,7 +10,9 @@ public class Factorial {
         
     }
     public static void main(String[] args) {
-      int a =  Fact(5);
+      int a =  Fact(6);
+      int b = Fact(1);
       System.out.println(a);
+      System.out.println(b);
     }
 }
